@@ -92,3 +92,23 @@ hr {
     text-align: center;
     padding: 2rem;
 }
+
+@media (min-width: 768px) {
+  
+    .illustration {
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media (min-width: 992px) {
+   
+    .accordion-items {
+        display: flex;
+    }
+    .illustration {
+        width: 40%;
+        margin-right: 2rem;
+    }
+}
+
