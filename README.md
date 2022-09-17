@@ -23,6 +23,7 @@ Bonus: Complete the challenge without using JavaScript
 
 - Semantic HTML5 markup
 - CSS custom properties
+- JavaScript
 - Flexbox
 - Mobile-first workflow
 
