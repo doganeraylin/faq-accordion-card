@@ -4,7 +4,7 @@ This is a solution to the [FAQ Accordion Card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: (https://doganeraylin.github.io/faq-accordion-card/)
+- Live Site URL: (https://faq-accordion-card-aylin-doganer.netlify.app/)
 
 
 
