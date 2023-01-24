@@ -1,6 +1,6 @@
 # FAQ Accordion Card 
 
-- Live Site URL: (https://faq-accordion-card-aylin-doganer.netlify.app/)
+### Live Site URL: (https://faq-accordion-card-aylin-doganer.netlify.app/)
 
 *This is a solution to the [FAQ Accordion Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects.*
 
